@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is X Zhou, an experimental and behavioural economists.
+
+- 🔭 I’m currently working on fields related to Cultural Economics, Cooperation, Behavioural Finance, Social Learning and Social Networks, and Probabilistic Reasoning.
+
+- 🌱 I’m currently learning R.
+
 <!--
 **X-Zhou-99/X-Zhou-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
